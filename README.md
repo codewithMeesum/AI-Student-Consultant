@@ -10,6 +10,6 @@ I am currently developing an AI-powered student career guidance platform using E
 This is an early preview and I’m excited to share that the platform will be fully functional within a week!
 Looking forward to your feedback and suggestions as I continue improving it. 
 
-
+<img width="563" height="586" alt="image" src="https://github.com/codewithMeesum/AI-Student-Consultant/blob/main/demo01.png" />
 
 <img width="563" height="586" alt="image" src="https://github.com/user-attachments/assets/b732bfb5-9bc7-4411-902e-073ebf10a2cd" />
