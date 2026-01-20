@@ -12,4 +12,8 @@ Looking forward to your feedback and suggestions as I continue improving it.
 
 <img width="563" height="586" alt="image" src="https://github.com/codewithMeesum/AI-Student-Consultant/blob/main/demo01.png" />
 
+<img width="563" height="586" alt="image" src="https://github.com/codewithMeesum/AI-Student-Consultant/blob/main/demo1.png" />
+
+<img width="563" height="586" alt="image" src="https://github.com/codewithMeesum/AI-Student-Consultant/blob/main/demo03.png" />
+
 <img width="563" height="586" alt="image" src="https://github.com/user-attachments/assets/b732bfb5-9bc7-4411-902e-073ebf10a2cd" />
